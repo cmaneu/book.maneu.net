@@ -4,6 +4,7 @@ title: High-Performance Windows Phone Apps
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/2014-9-1-High-performance-windows-phone-apps.jpg)
+
 See it on [Amazon][azn].
 
 I've just read *High-Performance Windows Store Apps* by [Brian Rasmussen][author].
