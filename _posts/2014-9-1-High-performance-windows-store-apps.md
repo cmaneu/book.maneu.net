@@ -8,7 +8,7 @@ title: High-Performance Windows Phone Apps
 See it on [Amazon][azn].
 
 I've just read *High-Performance Windows Store Apps* by [Brian Rasmussen][author].
-It's what not on my reading list, but as I've undergone a "performance sprint",
+It was not on my reading list, but as I've undergone a "performance sprint",
 I thought it was a good timing.
 
 ## What's inside?
@@ -57,8 +57,10 @@ The chapter 7 is basically a list of additional resources on performance (videos
 
 I would not recommend this book if you already have an experience in performance on
 the XAML platform. I was hoping for more practical solutions (mainly in the performance
-  testing area), and insider view in the XAML platform. However, if you want to discover the basics of XAML app performance
-(and more specific - Windows Store apps performance), this book is a good way to be started.
+testing area), and insider view into the XAML platform. 
+
+However, if you want to discover the basics of XAML app performance
+(and more specifically - Windows Store apps performance), this book is a good way to be started.
 
 
 [azn]: http://www.amazon.com/gp/product/0735682631?ie=UTF8&camp=213733&creative=393185&creativeASIN=0735682631&linkCode=shr&tag=chriscorn02-20&linkId=MN67DC3ZWOQR2PSH&qid=1409586892&sr=8-1-spell&keywords=High+performance+windows+stpre+apps
