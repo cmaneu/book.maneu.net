@@ -11,9 +11,9 @@ I've just read *High-Performance Windows Store Apps* by [Brian Rasmussen][author
 It's what not on my reading list, but as I've undergone a "performance sprint",
 I thought it was a good timing.
 
-## What's inside ?
+## What's inside?
 
-The first chapter explains what is performance, and what we need to focus on when
+The first chapter explains what performance is, and what we need to focus on when
 we start working on this subject. The core of this book is **Windows Performance analyzer** tool. Lots of pages are
 dedicated to see how you can use this tool to trace performance data, investigate
 performance issues, and so on. It's, by far, the best documentation on this tool
@@ -45,10 +45,10 @@ the results and compare it over time.
 
 The chapter 6 presents three "performance issues investigations":
 
-- slow startup: caused by too much work done on a value converter,
-- slow page navigation: caused by messing up with async/await, lots of I/Os and all
+- Slow startup: caused by too much work done on a value converter,
+- Slow page navigation: caused by messing up with async/await, lots of I/Os and all
 of this done in the constructor.  ,
-- sluggish panning performance: caused by too much overdraw, and full-size images
+- Sluggish panning performance: caused by too much overdraw, and full-size images
 used in thumbnails.
 
 The chapter 7 is basically a list of additional resources on performance (videos, online resources, ...).
