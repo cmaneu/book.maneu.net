@@ -3,7 +3,7 @@ layout: post
 title: Using Flume, By Hari Shreedharan
 ---
 
-!(https://covers.oreillystatic.com/images/0636920030348/bkt.gif)
+![](https://cloud.githubusercontent.com/assets/790974/5087789/9120195e-6f2c-11e4-9b4f-acf65993c342.gif)
 
 See it on [Amazon][azn].
 
